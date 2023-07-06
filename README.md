@@ -3,6 +3,7 @@ Este repositorio es para el almacenamiento del Sistema de Gestión de Tareas par
 
 
 1.- Lenguaje en java 8
+
 2.- Framework vue version 2 con estilos primevue
 
 PUNTOS EXTRAS REALIZADOS:
