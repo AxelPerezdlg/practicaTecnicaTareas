@@ -11,11 +11,6 @@ Para esta api se uso el lenguaje de programacion Java 8, para que dicha API func
 
 
 
-
-
-
-
-
 Nombre del proyecto de la pagina web:  tareas                                                                                                
 Para esta pagina web se uso el framework Vue en la version 2, con estilos proporcionados por primevue, para que dicha app funcione, se debera hacer lo siguiente:
 
